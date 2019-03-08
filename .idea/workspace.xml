@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8460c82-d1a6-4537-a240-2ede8404332d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ARuleofDivisibilityby13/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FibonacciTribonacciandfriends/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,11 +15,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ARuleofDivisibilityby13/main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="493">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/FibonacciTribonacciandfriends/main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HelpTheBookseller/main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -50,6 +67,7 @@
         <option value="$PROJECT_DIR$/src/HelpTheBookseller/main.java" />
         <option value="$PROJECT_DIR$/src/ARuleofDivisibilityby13/maijn.java" />
         <option value="$PROJECT_DIR$/src/ARuleofDivisibilityby13/main.java" />
+        <option value="$PROJECT_DIR$/src/FibonacciTribonacciandfriends/main.java" />
       </list>
     </option>
   </component>
@@ -85,7 +103,13 @@
               <item name="CodeWarsTests" type="b2602c69:ProjectViewProjectNode" />
               <item name="CodeWarsTests" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ARuleofDivisibilityby13" type="462c0819:PsiDirectoryNode" />
+              <item name="FibonacciTribonacciandfriends" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeWarsTests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeWarsTests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="HelpTheBookseller" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -95,7 +119,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HackerrankChalenges" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -109,7 +133,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.main (2)">
+  <component name="RunManager" selected="Application.main (3)">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -135,13 +159,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SumOfOddNumbers.main" />
+    <configuration name="main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FibonacciTribonacciandfriends.main" />
       <module name="CodeWarsTests" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SumOfOddNumbers.*" />
+          <option name="PATTERN" value="FibonacciTribonacciandfriends.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -207,19 +231,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.main (4)" />
       <item itemvalue="Application.main (5)" />
       <item itemvalue="Application.main" />
       <item itemvalue="Application.main (1)" />
       <item itemvalue="Application.main (2)" />
+      <item itemvalue="Application.main (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main (3)" />
         <item itemvalue="Application.main (2)" />
         <item itemvalue="Application.main (1)" />
         <item itemvalue="Application.main" />
         <item itemvalue="Application.main (5)" />
-        <item itemvalue="Application.main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -241,7 +265,14 @@
       <option name="project" value="LOCAL" />
       <updated>1551874097741</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="06-03-2019 challange">
+      <created>1551888312492</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1551888312492</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -256,7 +287,7 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32872504" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32872504" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
@@ -266,7 +297,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39938557" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39938557" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -281,19 +312,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Next challange" />
-    <option name="LAST_COMMIT_MESSAGE" value="Next challange" />
+    <MESSAGE value="06-03-2019 challange" />
+    <option name="LAST_COMMIT_MESSAGE" value="06-03-2019 challange" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ARuleofDivisibilityby13/main.java</url>
-          <line>21</line>
-          <properties />
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="12" />
+      <option name="time" value="20" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -520,6 +544,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ARuleofDivisibilityby13/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/HelpTheBookseller/main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -527,10 +558,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ARuleofDivisibilityby13/main.java">
+    <entry file="file://$PROJECT_DIR$/src/FibonacciTribonacciandfriends/main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="476">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
